@@ -1,4 +1,4 @@
-
+#Question: Find sum of Element in Array(import) taking input from User.
 #import Array
 from array import *
 a = array("i",[])

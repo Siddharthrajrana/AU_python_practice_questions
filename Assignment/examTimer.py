@@ -5,7 +5,7 @@ sec = 60
 
 print("Count Down Starts ")
 while(sec!=0):
-    print(sec)
+    print(sec,"sec left")
     time.sleep(1)# Sleep for 1 seconds
     sec=sec-1
 
